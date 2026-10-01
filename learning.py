@@ -1,5 +1,5 @@
 print("I am learning git")
-// My comment
+// My comment 1
 def my_function():
     print("Hello from a function")
 
